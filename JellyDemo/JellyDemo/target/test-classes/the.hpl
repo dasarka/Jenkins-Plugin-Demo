@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: JellyDemo
+Short-Name: JellyDemo
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-07/14/2018 15:35-venkatagoday)
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: 
+Libraries: C:\Users\tester560066\workspace\JellyDemo\JellyDemo\target\
+ classes
+Resource-Path: C:\Users\tester560066\workspace\JellyDemo\JellyDemo\src
+ \main\webapp
+

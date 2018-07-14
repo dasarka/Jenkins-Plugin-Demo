@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: venkatagoday
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_121
+Extension-Name: JellyDemo
+Specification-Title: TODO
+Implementation-Title: JellyDemo
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: JellyDemo
+Short-Name: JellyDemo
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-07/14/2018 15:36-venkatagoday)
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: 
+
